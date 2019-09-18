@@ -44,4 +44,4 @@ This repository is essentially a minimal web application that specifies [Superse
 If you have problems using your instance of Superset, you should check the [official documentation](https://superset.incubator.apache.org/installation.html) or open an issue on [issue tracker](https://github.com/apache/incubator-superset/issues). If you discover an issue with the deployment process provided by *this repository*, then [open an issue here](https://github.com/dugjason/superset-on-heroku/issues).
 
 
-Commit 1
+Commit 2
